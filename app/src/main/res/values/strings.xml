@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UNI</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="tab_menu_index">首页</string>
+    <string name="tab_menu_release">发泄</string>
+    <string name="tab_menu_post">发帖</string>
+    <string name="tab_menu_change">改变</string>
+    <string name="tab_menu_setting">个人</string>
+    <string name="tab_menu_bg">不知道咋写了</string>
+
+
+
+
+</resources>
